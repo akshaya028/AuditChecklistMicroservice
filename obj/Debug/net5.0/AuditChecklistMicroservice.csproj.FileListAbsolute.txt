@@ -62,3 +62,4 @@ F:\MFPE\AuditChecklistMicroservice\bin\Debug\net5.0\log4net.config
 F:\MFPE\AuditChecklistMicroservice\bin\Debug\net5.0\log4net.dll
 F:\MFPE\AuditChecklistMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 F:\MFPE\AuditChecklistMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFPE\AuditChecklistMicroservice\bin\Debug\net5.0\Auditdocker.yaml
